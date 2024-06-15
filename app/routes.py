@@ -8,3 +8,6 @@ def home():
 @app.route('/generic')
 def generic():
     return render_template('generic.html')
+@app.route('/elements')
+def elements():
+    return render_template('elements.html')
