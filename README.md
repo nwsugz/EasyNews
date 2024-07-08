@@ -1,5 +1,5 @@
 # ESTsoft Hackathon 제 1회
-# News Nuggets
+## News Nuggets
 
 **(Team 1)**
 **팀원 및 담당 업무**
